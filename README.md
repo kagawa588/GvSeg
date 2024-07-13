@@ -1,8 +1,8 @@
-# GvSeg: General and Task-Oriented Video Segmentation
+# [GvSeg: General and Task-Oriented Video Segmentation](https://www.arxiv.org/abs/2407.06540)
 
 ![](fig/fig3.png)
 
->[GvSeg: General and Task-Oriented Video Segmentation]() <br>
+>[GvSeg: General and Task-Oriented Video Segmentation](https://www.arxiv.org/abs/2407.06540) <br>
 >[Mu Chen](https://scholar.google.com/citations?user=eyBlZUUAAAAJ&hl=zh-CN), [Liulei Li](https://scholar.google.com/citations?user=eCrBWngAAAAJ&hl=en), [Wenguan Wang](https://sites.google.com/view/wenguanwang), [Ruijie Quan](https://scholar.google.com/citations?user=WKLRPsAAAAAJ&hl=en) [Yi Yang](https://scholar.google.com/citations?hl=zh-CN&user=RMSuNFwAAAAJ&view_op=list_works)
 >
 
@@ -20,9 +20,13 @@ Coming soon...
 If you find this work useful in your research, please star our repository and consider citing:
 
 ```
-
+@article{chen2024general,
+  title={General and Task-Oriented Video Segmentation},
+  author={Chen, Mu and Li, Liulei and Wang, Wenguan and Quan, Ruijie and Yang, Yi},
+  journal={arXiv preprint arXiv:2407.06540},
+  year={2024}
+}
 ```
-
 ## Contact
 
 Any comments, please email: mu.chen@student.uts.edu.au.
