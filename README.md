@@ -20,11 +20,11 @@ Coming soon...
 If you find this work useful in your research, please star our repository and consider citing:
 
 ```
-@article{chen2024general,
+@inproceedings{chen2024general,
   title={General and Task-Oriented Video Segmentation},
   author={Chen, Mu and Li, Liulei and Wang, Wenguan and Quan, Ruijie and Yang, Yi},
-  journal={arXiv preprint arXiv:2407.06540},
-  year={2024}
+  year = {2024},
+  booktitle = {ECCV},
 }
 ```
 ## Contact
